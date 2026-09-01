@@ -35,7 +35,7 @@ The transformation process included:
 - Applying multiple transformation steps to prepare the dataset for analysis.
 
 ### Power Query Applied Steps
-![Power Query Data Cleaning](./Screenshots/01_power_query_data_cleaning.png)
+![Power Query Data Cleaning](./Screenshots/power_query_data_cleaning.png)
 The Applied Steps demonstrate the sequence of transformations performed during the data preparation stage.
 
 ## Excel Analysis
@@ -84,7 +84,7 @@ Timelines were added for:
 The slicers and timelines were connected to the relevant PivotTables, allowing the dashboard visualisations and KPIs to update interactively when different filters or time periods are selected.
 
 ### Dashboard Preview
-![Interactive Sales Dashboard](sales_dashboard.png)
+![Interactive Sales Dashboard](sales_Dashboard.png)
 
 ## Project Workflow
 The project followed this workflow:
